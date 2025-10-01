@@ -1,4 +1,4 @@
-import Lightning from './Lightning';
+import Lightning from './components/Lightning';
 
 
 <div style={{ width: '100%', height: '600px', position: 'relative' }}>
